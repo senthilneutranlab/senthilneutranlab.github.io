@@ -14,9 +14,26 @@ feature-images:
 <section class="neu-intro">
 
   <h3>
-Our laboratory focuses on elucidating the molecular mechanisms underlying neurodegenerative diseases such as Parkinson’s and motor neuron diseases.
-
+    Our laboratory focuses on elucidating the molecular mechanisms underlying
+    neurodegenerative diseases such as Parkinson’s and motor neuron diseases.
   </h3>
+
+</section>
+
+
+<section class="institution-logos">
+
+  <img
+    class="nccs-logo"
+    src="{{ '/assets/img/funding/rawlogos/nccs-colour.jpg' | relative_url }}"
+    alt="National Centre for Cell Science"
+  >
+
+  <img
+    class="lab-logo"
+    src="{{ '/assets/img/Lablogo_full.svg' | relative_url }}"
+    alt="NeuTran Lab"
+  >
 
 </section>
 
@@ -25,26 +42,50 @@ Our laboratory focuses on elucidating the molecular mechanisms underlying neurod
 
 .neu-intro {
   max-width: 850px;
-  margin: 55px auto;
+  margin: 55px auto 30px;
   padding: 0 25px;
   text-align: center;
 }
 
-.neu-intro h2 {
+.neu-intro h3 {
   margin-bottom: 20px;
 }
 
-.neu-intro p {
-  font-size: 1.05rem;
-  line-height: 1.8;
-  opacity: 0.85;
+.institution-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 70px;
+  margin: 45px auto 60px;
+  padding: 0 40px;
+}
+
+.nccs-logo {
+  height: 90px;
+  width: auto;
+}
+
+.lab-logo {
+  height: 150px;
+  width: auto;
 }
 
 
 @media screen and (max-width: 768px) {
 
-  .neu-intro {
-    margin: auto;
+  .institution-logos {
+    gap: 25px;
+    padding: 0 30px;
+  }
+
+  .nccs-logo {
+    height: 55px;
+    width: auto;
+  }
+
+  .lab-logo {
+    height: 90px;
+    width: auto;
   }
 
 }
