@@ -6,20 +6,7 @@ position: 3
 hide: false
 --- 
 
-## Selected Publications
-
-
-|**Kumar, S. T.**, Nazarov, S., Porta, S., Maharjan, N., Cendrowska, U., Kabani, M., Finamore, F., Xu, Y., Lee, V. M., & Lashuel, H. A. (2023). Seeding the aggregation of TDP-43 requires post-fibrillization proteolytic cleavage. Nature Neuroscience, 26(6), 983–996. [Link](https://doi.org/10.1038/s41593-023-01341-4)|
-
-|**Kumar, S. T.**, Mahul-Mellier, A., Hegde, R. N., Rivière, G., Moons, R., De Opakua, A. I., Magalhães, P., Rostami, I., Donzelli, S., Sobott, F., Zweckstetter, M., & Lashuel, H. A. (2022). A NAC domain mutation (E83Q) unlocks the pathogenicity of human alpha-synuclein and recapitulates its pathological diversity. Science Advances, 8(17). [Link](https://doi.org/10.1126/sciadv.abn0044)|
-
-|**Kumar, S. T.**, Jagannath, S., Francois, C., Vanderstichele, H., Stoops, E., & Lashuel, H. A. (2020). How specific are the conformation-specific α-synuclein antibodies? Characterization and validation of 16 α-synuclein conformation-specific antibodies using well-characterized preparations of α-synuclein monomers, fibrils and oligomers with distinct structures and morphology. Neurobiology of Disease, 146, 105086. [Link](https://doi.org/10.1016/j.nbd.2020.105086)|
-
-|**Kumar, S. T.**, Donzelli, S., Chiki, A., Syed, M. M. K., & Lashuel, H. A. (2020). A simple, versatile and robust centrifugation‐based filtration protocol for the isolation and quantification of α‐synuclein monomers, oligomers and fibrils: Towards improving experimental reproducibility in α‐synuclein research. Journal of Neurochemistry, 153(1), 103–119. [Link](https://doi.org/10.1111/jnc.14955)|
-
-|**Kumar, S. T.**, Meinhardt, J., Fuchs, A., Aumüller, T., Leppert, J., Büchele, B., Knüpfer, U., Ramachandran, R., Yadav, J. K., Prell, E., Morgado, I., Ohlenschläger, O., Horn, U., Simmet, T., Görlach, M., & Fändrich, M. (2014). Structure and Biomedical Applications of Amyloid Oligomer Nanoparticles. ACS Nano, 8(11), 11042–11052. [Link](https://doi.org/10.1021/nn503960h)|
-
-|**Kumar, S. T.**, Leppert, J., Bellstedt, P., Wiedemann, C., Fändrich, M., & Görlach, M. (2015). Solvent Removal Induces a Reversible β-to-α Switch in Oligomeric Aβ Peptide. Journal of Molecular Biology, 428(2), 268–273. [Link](https://doi.org/10.1016/j.jmb.2015.05.002)|
+>[Complete publication list](https://scholar.google.com/citations?user=8gGsQzAAAAAJ&hl=en)
 
 ## Preprints (under Peer Review)
 
@@ -83,8 +70,3 @@ hide: false
 
 
 |Indu, S., **Kumar, S.T.**, Thakurela, S., Gupta, M., Bhaskara, R.M., Ramakrishnan, C. and Varadarajan, R. (2010), Disulfide conformation and design at helix N-termini. Proteins, 78: 1228-1242. [Link](https://doi.org/10.1002/prot.22641)|
-
-
->[Complete publication list](https://scholar.google.com/citations?user=8gGsQzAAAAAJ&hl=en)
-
- 
