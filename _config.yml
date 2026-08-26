@@ -18,8 +18,7 @@ footer_text: >
   <br>
   Website by <a href="https://github.com/MuzzammilB" target="_blank" rel="noopener noreferrer">Muzzammil B</a>
   · Built with <a href="https://github.com/sylhare/Type-on-Strap" target="_blank" rel="noopener noreferrer">Type-on-Strap</a>
-  by <a href="https://github.com/sylhare" target="_blank" rel="noopener noreferrer">Sylhare</a>
-  · <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a>
+  by Sylhare.
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
