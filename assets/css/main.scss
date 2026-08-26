@@ -201,3 +201,82 @@ html[data-theme="dark"] .alumni-entry {
 .timeline-content { flex-direction: column; } 
 .timeline-thumb img { width: 100%; max-width: 320px; height: auto; } 
 }
+
+.collaborators-list {
+  width: 100%;
+  margin: 25px 0 45px;
+}
+
+.collaborator-entry {
+  width: 100%;
+  box-sizing: border-box;
+
+  padding: 20px 24px;
+  margin-bottom: 16px;
+
+  border-radius: 16px;
+  border: 1px solid #e5e7eb;
+  background: #ffffff;
+
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+
+  transition: all 0.2s ease;
+}
+
+html[data-theme="dark"] .collaborator-entry {
+  background: #1f2937;
+  border: 1px solid #374151;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+
+.collaborator-entry:hover {
+  transform: translateY(-2px);
+}
+
+html[data-theme="light"] .collaborator-entry:hover {
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+html[data-theme="dark"] .collaborator-entry:hover {
+  box-shadow: 0 8px 20px rgba(0,0,0,0.40);
+}
+
+.collaborator-name {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.collaborator-affiliation {
+  font-size: 1.05rem;
+  opacity: 0.8;
+}
+
+.collaborator-project,
+.collaborator-duration {
+  margin-top: 7px;
+  font-size: 1rem;
+  opacity: 0.75;
+}
+
+@media (max-width: 768px) {
+
+  .collaborator-entry {
+    padding: 18px 20px;
+    margin-bottom: 14px;
+  }
+
+  .collaborator-name {
+    font-size: 1.1rem;
+  }
+
+  .collaborator-affiliation {
+    font-size: 0.95rem;
+  }
+
+  .collaborator-project,
+  .collaborator-duration {
+    font-size: 0.9rem;
+  }
+
+}

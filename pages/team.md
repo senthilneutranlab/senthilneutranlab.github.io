@@ -31,6 +31,31 @@ hide: false
 
 {% endfor %}
 
+# Collaborators
+
+<div class="collaborators-list">
+
+{% for collaborator in site.data.collaborators %}
+
+<div class="collaborator-entry">
+
+  <div class="collaborator-name">{{ collaborator.name }}</div>
+
+  <div class="collaborator-affiliation">{{ collaborator.affiliation }}</div>
+
+  {% if collaborator.project %}
+    <div class="collaborator-project">Project: {{ collaborator.project }}</div>
+  {% endif %}
+
+  {% if collaborator.duration %}
+    <div class="collaborator-duration">{{ collaborator.duration }}</div>
+  {% endif %}
+
+</div>
+
+{% endfor %}
+
+</div>
 
 # Alumni
 
