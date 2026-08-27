@@ -3,18 +3,14 @@ layout: page
 ---
 
 {% assign gallery = site.data.lablife | where: "slug", page.category | first %}
+{% assign gallery_path = "assets/img/lablife/" | append: page.category %}
 
-{% if gallery and gallery.photos %}
-  <div class="lablife-gallery">
-    {% for photo in gallery.photos %}
-      <div class="lablife-gallery-item">
-        <img
-          src="{{ photo | relative_url }}"
-          alt="{{ gallery.title }}"
-          loading="lazy">
-      </div>
-    {% endfor %}
-  </div>
+{% if gallery %}
+
+  {% include gallery.html gallery_path=gallery_path %}
+
 {% else %}
-  <p class="lablife-empty">Photos for this section will be added soon.</p>
+
+  <p>Photos for this section will be added soon.</p>
+
 {% endif %}
