@@ -1,0 +1,20 @@
+---
+layout: page
+---
+
+{% assign gallery = site.data.lablife | where: "slug", page.category | first %}
+
+{% if gallery and gallery.photos %}
+  <div class="lablife-gallery">
+    {% for photo in gallery.photos %}
+      <div class="lablife-gallery-item">
+        <img
+          src="{{ photo | relative_url }}"
+          alt="{{ gallery.title }}"
+          loading="lazy">
+      </div>
+    {% endfor %}
+  </div>
+{% else %}
+  <p class="lablife-empty">Photos for this section will be added soon.</p>
+{% endif %}
