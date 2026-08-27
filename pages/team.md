@@ -3,7 +3,7 @@ layout: page
 title: TEAM
 permalink: /team/
 position: 2
-feature-img: "assets/img/header/team.jpg"
+#feature-img: "assets/img/header/team.jpg"
 hide: false
 ---
 

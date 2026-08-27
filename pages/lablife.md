@@ -1,8 +1,9 @@
 ---
 layout: lablife
 title: LAB LIFE
-subtitle: From the pexels folder
+subtitle:
 permalink: /lablife/
+feature-img: "assets/img/header/lablife.jpg"
 gallery_path: "assets/img/pexels"
 excluded: true
 position: 5
