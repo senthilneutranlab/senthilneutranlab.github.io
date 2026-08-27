@@ -2,7 +2,7 @@
 layout: page
 title: LABLIFE
 subtitle: From the pexels folder
-permalink: /gallery/
+permalink: /lablife/
 gallery_path: "assets/img/pexels"
 excluded: true
 position: 5
