@@ -1,0 +1,201 @@
+---
+layout: default
+---
+
+<article>
+
+  <header id="main">
+    <div class="title-padder">
+      <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title">
+        {{ page.title }}
+      </h1>
+    </div>
+  </header>
+
+  <section class="post-content">
+
+    <div class="lablife-grid">
+
+      {% for item in site.data.lablife %}
+
+        <a
+          class="lablife-card"
+          href="{{ '/lablife/' | append: item.slug | append: '/' | relative_url }}"
+        >
+
+          <div
+            class="lablife-card-image"
+            style="background-image: url('{{ item.cover | relative_url }}');"
+          >
+
+            <div class="lablife-card-overlay">
+              <h2>{{ item.title }}</h2>
+            </div>
+
+          </div>
+
+        </a>
+
+      {% endfor %}
+
+    </div>
+
+  </section>
+
+</article>
+
+<style>
+
+.lablife-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 30px;
+
+  max-width: 1100px;
+  margin: 40px auto;
+}
+
+
+/* =========================================
+   LAB LIFE TILE
+   ========================================= */
+
+.lablife-card {
+  display: block;
+
+  text-decoration: none !important;
+
+  overflow: hidden;
+
+  border-radius: 12px;
+
+  box-shadow: 0 3px 12px rgba(0,0,0,0.12);
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+
+.lablife-card:hover {
+  transform: translateY(-4px);
+
+  box-shadow: 0 8px 22px rgba(0,0,0,0.18);
+}
+
+
+/* =========================================
+   FULL TILE IMAGE
+   ========================================= */
+
+.lablife-card-image {
+
+  position: relative;
+
+  width: 100%;
+
+  aspect-ratio: 16 / 9;
+
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  overflow: hidden;
+}
+
+
+/* =========================================
+   DARK OVERLAY
+   ========================================= */
+
+.lablife-card-overlay {
+
+  position: absolute;
+
+  inset: 0;
+
+  display: flex;
+
+  align-items: flex-end;
+  justify-content: center;
+
+  padding: 24px;
+
+  background:
+    linear-gradient(
+      to top,
+      rgba(0,0,0,0.72),
+      rgba(0,0,0,0.05) 65%
+    );
+
+  transition:
+    background 0.25s ease;
+}
+
+
+.lablife-card:hover .lablife-card-overlay {
+
+  background:
+    linear-gradient(
+      to top,
+      rgba(0,0,0,0.82),
+      rgba(0,0,0,0.12) 70%
+    );
+}
+
+
+/* =========================================
+   TILE TITLE
+   ========================================= */
+
+.lablife-card-overlay h2 {
+
+  margin: 0;
+
+  color: #ffffff;
+
+  text-align: center;
+
+  font-size: 1.45rem;
+
+  font-weight: 600;
+
+  letter-spacing: 0.03em;
+
+  text-shadow: 0 2px 5px rgba(0,0,0,0.35);
+}
+
+
+/* =========================================
+   MOBILE
+   ========================================= */
+
+@media (max-width: 700px) {
+
+  .lablife-grid {
+
+    grid-template-columns: 1fr;
+
+    gap: 22px;
+
+    margin: 30px auto;
+
+    padding: 0 15px;
+
+  }
+
+  .lablife-card-image {
+
+    aspect-ratio: 16 / 9;
+
+  }
+
+  .lablife-card-overlay h2 {
+
+    font-size: 1.25rem;
+
+  }
+
+}
+
+</style>

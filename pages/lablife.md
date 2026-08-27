@@ -1,6 +1,6 @@
 ---
-layout: page
-title: LABLIFE
+layout: lablife
+title: LAB LIFE
 subtitle: From the pexels folder
 permalink: /lablife/
 gallery_path: "assets/img/pexels"
