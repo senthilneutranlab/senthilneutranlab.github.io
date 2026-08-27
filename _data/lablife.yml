@@ -1,0 +1,13 @@
+- title: Equipments
+  slug: equipments
+  cover: /assets/img/lablife/equipments/cover.jpg
+  photos:
+    - /assets/img/lablife/equipments/01.jpg
+    - /assets/img/lablife/equipments/02.jpg
+
+- title: Campus
+  slug: campus
+  cover: /assets/img/lablife/campus/cover.jpg
+  photos:
+    - /assets/img/lablife/campus/01.jpg
+    - /assets/img/lablife/campus/02.jpg
