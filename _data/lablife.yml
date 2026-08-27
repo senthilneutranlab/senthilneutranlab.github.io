@@ -1,13 +1,37 @@
 - title: Equipments
   slug: equipments
-  cover: /assets/img/lablife/equipments/cover.jpg
+  cover: /assets/img/lablife/equipments/Akta.png
   photos:
-    - /assets/img/lablife/equipments/01.jpg
-    - /assets/img/lablife/equipments/02.jpg
+    - /assets/img/lablife/equipments/Akta.png
+    - /assets/img/lablife/equipments/Balance.png
+    - /assets/img/lablife/equipments/Transblot.png
 
 - title: Campus
   slug: campus
-  cover: /assets/img/lablife/campus/cover.jpg
+  cover: /assets/img/lablife/campus/Jc01.jpg
   photos:
-    - /assets/img/lablife/campus/01.jpg
-    - /assets/img/lablife/campus/02.jpg
+    - /assets/img/lablife/campus/Jc01.jpg
+    - /assets/img/lablife/campus/Jc02.jpg
+    - /assets/img/lablife/campus/Jc03.jpg
+    - /assets/img/lablife/campus/NCCS%20bloom.jpeg
+
+- title: Lab Dinner
+  slug: labdinner
+  cover: /assets/img/lablife/labdinner/IMG-20251129-WA0012.jpg
+  photos:
+    - /assets/img/lablife/labdinner/IMG-20251129-WA0012.jpg
+    - /assets/img/lablife/labdinner/IMG-20251129-WA0013.jpg
+    - /assets/img/lablife/labdinner/IMG-20251129-WA0014.jpg
+    - /assets/img/lablife/labdinner/IMG-20251129-WA0029.jpg
+    - /assets/img/lablife/labdinner/IMG-20251129-WA0033.jpg
+    - /assets/img/lablife/labdinner/IMG-20251129-WA0036.jpg
+
+- title: Conferences
+  slug: conferences
+  cover:
+  photos:
+
+- title: Workshops
+  slug: workshops
+  cover:
+  photos:
