@@ -1,10 +1,10 @@
 - title: Equipments
   slug: equipments
-  cover: /assets/img/lablife/equipments/Akta.png
+  cover: /assets/img/lablife/equipments/akta.png
   photos:
-    - /assets/img/lablife/equipments/Akta.png
-    - /assets/img/lablife/equipments/Balance.png
-    - /assets/img/lablife/equipments/Transblot.png
+    - /assets/img/lablife/equipments/akta.png
+    - /assets/img/lablife/equipments/balance.png
+    - /assets/img/lablife/equipments/transblot.png
 
 - title: Campus
   slug: campus
