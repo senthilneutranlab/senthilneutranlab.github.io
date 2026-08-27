@@ -3,6 +3,7 @@ layout: page
 title: JOIN US
 permalink: /join-us/
 position: 6
+feature-img: "assets/img/header/joinus.jpg"
 hide: false
 ---
 

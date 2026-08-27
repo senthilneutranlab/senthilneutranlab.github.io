@@ -3,6 +3,7 @@ layout: page
 title: PUBLICATIONS
 permalink: /publications/
 position: 3
+feature-img: "assets/img/header/publications.jpg"
 hide: false
 --- 
 
