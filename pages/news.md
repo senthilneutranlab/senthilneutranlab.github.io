@@ -1,7 +1,7 @@
 ---
 layout: page
-title: EVENTS
-permalink: /events/
+title: NEWS
+permalink: /news/
 position: 4
 hide: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TEAM
-permalink: /team/
+title: MEMBERS
+permalink: /members/
 position: 2
 #feature-img: "assets/img/header/team.jpg"
 hide: false
