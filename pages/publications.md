@@ -39,7 +39,7 @@ hide: false
 - Donzeli S, OSullivan SA, Mahul-Mellier AL, Ulusoy A, Fusco G, Kumar ST, Syed MMK, Chiki A, Burtscher J, Boussouf MLD, Rostami I, Simone AD, Di Monte DA, Lashuel HA. Post-fibrillization nitration of alpha-synuclein abolishes its seeding activity and pathology formation in primary neurons and in vivo. [https://doi.org/10.1101/2023.03.24.534149](https://doi.org/10.1101/2023.03.24.534149)
 
 
-## All Publications
+## All Publications (Reverse chronological order)
 
 - Pradhan, B., Kumar, S.T., Wagner, J., Gallardo, R., Orlando, G., Vleeschouwer, M.D., Zorzini, V., Madine, J., Louros, N., Neher, J.J., Rousseau, F., Schymkowitz, J. (2026) Atomic structures of medin and Aβ fibrils reveal polymorphic remodeling in mixed amyloid systems. Nat Commun. [https://doi.org/10.1038/s41467-026-72515-](https://doi.org/10.1038/s41467-026-72515-4)
 
