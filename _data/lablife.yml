@@ -10,10 +10,19 @@
   slug: campus
   cover: /assets/img/lablife/campus/Jc01.jpg
   photos:
-    - /assets/img/lablife/campus/Jc01.jpg
-    - /assets/img/lablife/campus/Jc02.jpg
-    - /assets/img/lablife/campus/Jc03.jpg
-    - /assets/img/lablife/campus/NCCS%20bloom.jpeg
+    - /assets/img/lablife/campus/mz/balconydoor.jpg
+    - /assets/img/lablife/campus/mz/balconysunset.jpg
+    - /assets/img/lablife/campus/mz/roadside.jpg
+    - /assets/img/lablife/campus/jc/jc01.jpg
+    - /assets/img/lablife/campus/jc/jc02.jpg
+    - /assets/img/lablife/campus/jc/jc03.jpg
+    - /assets/img/lablife/campus/jc/jc04.jpg
+    - /assets/img/lablife/campus/jc/jc05.jpg
+    - /assets/img/lablife/campus/jc/jc06.jpg
+    - /assets/img/lablife/campus/jc/jc07.jpg
+    - /assets/img/lablife/campus/jc/jc08.jpg
+    - /assets/img/lablife/campus/mz/jc09.jpg
+
 
 - title: Lab Dinner
   slug: labdinner
