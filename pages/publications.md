@@ -7,7 +7,28 @@ feature-img: "assets/img/header/publications.jpg"
 hide: false
 --- 
 
+<style>
+.post-content > ul {
+  margin: 0 0 1rem;
+  padding-left: 1.5rem;
+  list-style: disc;
+}
+
+.post-content > ul > li {
+  margin-bottom: 1.1rem;
+  text-align: justify;
+  text-align-last: left;
+  line-height: 1.65;
+  hyphens: auto;
+}
+
+.post-content a {
+  overflow-wrap: anywhere;
+}
+</style>
+
 >[Complete publication list](https://scholar.google.com/citations?user=8gGsQzAAAAAJ&hl=en)
+
 
 ## Preprints (under Peer Review)
 
