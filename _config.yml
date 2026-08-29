@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://senthilneutranlab.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Senthil's lababoratory                                    # site's title
+title: Senthil's laboratory                                    # site's title
 description: "Laboratory of Neurodegeneration and Translational Biology Senthil NCCS Amyloid TDP-43 synuclein protein aggregation website"  # used by search engines
 avatar: assets/img/NeuTran_Logo_cropped_nobg.svg                          # Empty for no avatar in navbar
 favicon: assets/img/NeuTran_Logo_cropped_nobg.svg                         # Icon displayed in the tab
