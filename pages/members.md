@@ -47,13 +47,11 @@ hide: false
 
   <div class="member-info">
 
-```
-<h3>{{ intern.name }}</h3>
+    <h3>{{ intern.name }}</h3>
 
-<p class="member-position">{{ intern.position }}</p>
+    <p class="member-position">{{ intern.position }}</p>
 
-<p>{{ intern.description }}</p>
-```
+    <p>{{ intern.description }}</p>
 
   </div>
 
