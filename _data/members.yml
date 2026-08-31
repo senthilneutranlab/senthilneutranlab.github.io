@@ -24,13 +24,6 @@
   github: 
   linkedin: 
 
-- name: Muzzammil Bhaisaheb
-  position: Junior Research Fellow
-  image: /assets/img/members/muzzammil.jpg
-  scholar:
-  github: 
-  linkedin: 
-
 - name: Suriya Sankary
   position: PhD student
   image: /assets/img/members/suriya.jpg
@@ -43,6 +36,13 @@
   position: PhD student
   image: /assets/img/members/soumita.jpg
   email: 
+  scholar:
+  github: 
+  linkedin: 
+
+- name: Muzzammil Bhaisaheb
+  position: Junior Research Fellow
+  image: /assets/img/members/muzzammil.jpg
   scholar:
   github: 
   linkedin: 
