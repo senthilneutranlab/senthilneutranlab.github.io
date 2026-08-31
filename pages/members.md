@@ -59,6 +59,32 @@ hide: false
 
 {% endfor %}
 
+# Laboratory staff
+
+{% for labstaff in site.data.labstaff %}
+
+<div class="member-card {% if labstaff.profile %}clickable{% endif %}"
+     {% if intern.profile %}
+     onclick="window.location='{{ labstaff.profile | relative_url }}';"
+     {% endif %}>
+
+  <div class="member-photo-container">
+    <img src="{{ labstaff.image | relative_url }}" alt="{{ labstaff.name }}">
+  </div>
+
+  <div class="member-info">
+
+    <h3>{{ labstaff.name }}</h3>
+
+    <p class="member-position">{{ labstaff.position }}</p>
+
+    <p>{{ labstaff.description }}</p>
+
+  </div>
+
+</div>
+
+{% endfor %}
 
 # Collaborators
 
