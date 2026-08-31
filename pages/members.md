@@ -34,30 +34,33 @@ hide: false
 
 # Masters/Internship students
 
-{% for member in site.data.members %}
+{% for intern in site.data.interns %}
 
-<div class="member-card {% if member.profile %}clickable{% endif %}"
-     {% if member.profile %}
-     onclick="window.location='{{ member.profile | relative_url }}';"
+<div class="member-card {% if intern.profile %}clickable{% endif %}"
+     {% if intern.profile %}
+     onclick="window.location='{{ intern.profile | relative_url }}';"
      {% endif %}>
 
   <div class="member-photo-container">
-    <img src="{{ interns.image | relative_url }}" alt="{{ interns.name }}">
+    <img src="{{ intern.image | relative_url }}" alt="{{ intern.name }}">
   </div>
 
   <div class="member-info">
 
-    <h3>{{ interns.name }}</h3>
+```
+<h3>{{ intern.name }}</h3>
 
-    <p class="member-position">{{ member.position }}</p>
+<p class="member-position">{{ intern.position }}</p>
 
-    <p>{{ innterns.description }}</p>
+<p>{{ intern.description }}</p>
+```
 
   </div>
 
 </div>
 
 {% endfor %}
+
 
 # Collaborators
 
