@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: RESEARCH
-heading: Neurodegeneration across biological scales
+heading: Neurodegeneration across biological landscales
 feature-images:
   - "/assets/img/header/lab_banner.jpeg"
 permalink: /research/
