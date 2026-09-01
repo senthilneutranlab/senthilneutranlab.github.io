@@ -84,6 +84,12 @@ hide: false
 
     <p class="member-position">{{ labstaff.position }}</p>
 
+{% if labstaff.email %}
+  <p class="member-email">
+    <a href="mailto:{{ labstaff.email }}">{{ labstaff.email }}</a>
+  </p>
+{% endif %}
+
     <p>{{ labstaff.description }}</p>
 
   </div>
