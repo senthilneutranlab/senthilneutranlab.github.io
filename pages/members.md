@@ -3,7 +3,7 @@ layout: page
 title: MEMBERS
 permalink: /members/
 position: 2
-#feature-img: "assets/img/header/team.jpg"
+feature-img: "assets/img/header/members.jpg"
 hide: false
 ---
 
