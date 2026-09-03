@@ -43,6 +43,10 @@ collections:
     output: true
     permalink: /:collection/:name
 
+  labouting:
+    output: true
+    permalink: /lablife/labouting/:name/
+
 # BUILD SETTINGS
 sass:
   style: compressed
