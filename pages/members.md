@@ -98,11 +98,15 @@ hide: false
 
 {% endfor %}
 
+
 # Collaborators
 
 <div class="collaborators-list">
 
+<h2>National</h2>
+
 {% for collaborator in site.data.collaborators %}
+{% if collaborator.type == "national" %}
 
 <div class="collaborator-entry">
 
@@ -110,19 +114,41 @@ hide: false
 
   <div class="collaborator-affiliation">{{ collaborator.affiliation }}</div>
 
-  {% if collaborator.project %}
-    <div class="collaborator-project">Project: {{ collaborator.project }}</div>
-  {% endif %}
+{% if collaborator.project %} <div class="collaborator-project">Project: {{ collaborator.project }}</div>
+{% endif %}
 
-  {% if collaborator.duration %}
-    <div class="collaborator-duration">{{ collaborator.duration }}</div>
-  {% endif %}
+{% if collaborator.duration %} <div class="collaborator-duration">{{ collaborator.duration }}</div>
+{% endif %}
 
 </div>
 
+{% endif %}
+{% endfor %}
+
+<h2>International</h2>
+
+{% for collaborator in site.data.collaborators %}
+{% if collaborator.type == "international" %}
+
+<div class="collaborator-entry">
+
+  <div class="collaborator-name">{{ collaborator.name }}</div>
+
+  <div class="collaborator-affiliation">{{ collaborator.affiliation }}</div>
+
+{% if collaborator.project %} <div class="collaborator-project">Project: {{ collaborator.project }}</div>
+{% endif %}
+
+{% if collaborator.duration %} <div class="collaborator-duration">{{ collaborator.duration }}</div>
+{% endif %}
+
+</div>
+
+{% endif %}
 {% endfor %}
 
 </div>
+
 
 # Alumni
 
