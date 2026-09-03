@@ -1,30 +1,42 @@
 
 - name: Dr. Jomon Joseph
   affiliation: NCCS, Pune
+  type: national
   project:
   duration:
 
 - name: Dr. Umasankar PK
   affiliation: NCCS, Pune
+  type: national
   project:
   duration:
 
 - name: Dr. Gaurav Das
   affiliation: NCCS, Pune
+  type: national
   project:
   duration:
 
 - name: Dr. Ambuja Navalkar
   affiliation: NCCS, Pune
+  type: national
   project:
   duration:
 
 - name: Dr. Sarita Puri
   affiliation: IISER, Pune
+  type: national
   project:
   duration:
 
-- name: Dr. Sivaraman Padavattan
+- name: Prof. Dr. Sivaraman Padavattan
   affiliation: NIMHANS, Bengaluru
+  type: national
+  project:
+  duration:
+
+- name: Prof. Joost Schymkowitz and Prof. Frederic Rousseau
+  affiliation: Switch Lab, VIB-KU Leuven, Belgium
+  type: international
   project:
   duration:
