@@ -3,6 +3,7 @@ layout: page
 title: NEWS
 permalink: /news/
 position: 4
+feature-img: "assets/img/header/tirf.tif"
 hide: false
 ---
 
