@@ -2,45 +2,19 @@
   slug: equipments
   cover: /assets/img/lablife/equipments/akta.png
   photos:
-    - /assets/img/lablife/equipments/akta.png
-    - /assets/img/lablife/equipments/balance.png
-    - /assets/img/lablife/equipments/transblot.png
 
 - title: Campus
   slug: campus
-  cover: /assets/img/lablife/campus/Jc01.jpg
-  photos:
-    - /assets/img/lablife/campus/mz/balconydoor.jpg
-    - /assets/img/lablife/campus/mz/balconysunset.jpg
-    - /assets/img/lablife/campus/mz/roadside.jpg
-    - /assets/img/lablife/campus/jc/jc01.jpg
-    - /assets/img/lablife/campus/jc/jc02.jpg
-    - /assets/img/lablife/campus/jc/jc03.jpg
-    - /assets/img/lablife/campus/jc/jc04.jpg
-    - /assets/img/lablife/campus/jc/jc05.jpg
-    - /assets/img/lablife/campus/jc/jc06.jpg
-    - /assets/img/lablife/campus/jc/jc07.jpg
-    - /assets/img/lablife/campus/jc/jc08.jpg
-    - /assets/img/lablife/campus/mz/jc09.jpg
-
-
-- title: Lab Dinner
-  slug: labdinner
-  cover: /assets/img/lablife/labdinner/IMG-20251129-WA0012.jpg
-  photos:
-    - /assets/img/lablife/labdinner/IMG-20251129-WA0012.jpg
-    - /assets/img/lablife/labdinner/IMG-20251129-WA0013.jpg
-    - /assets/img/lablife/labdinner/IMG-20251129-WA0014.jpg
-    - /assets/img/lablife/labdinner/IMG-20251129-WA0029.jpg
-    - /assets/img/lablife/labdinner/IMG-20251129-WA0033.jpg
-    - /assets/img/lablife/labdinner/IMG-20251129-WA0036.jpg
-
-- title: Conferences
-  slug: conferences
-  cover:
+  cover: /assets/img/lablife/campus/nccsbloom.jpeg
   photos:
 
-- title: Workshops
-  slug: workshops
+
+- title: Lab Outing
+  slug: labouting
+  cover: /assets/img/lablife/labouting/IMG-20251129-WA0012.jpg
+  photos:
+
+- title: Conferences & Workshops
+  slug: meetings
   cover:
   photos:
