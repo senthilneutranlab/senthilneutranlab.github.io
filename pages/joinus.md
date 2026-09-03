@@ -6,6 +6,15 @@ position: 6
 feature-img: "assets/img/header/joinus.jpg"
 hide: false
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N20PHKXPCL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N20PHKXPCL');
+</script>
 
 We are always looking for motivated colleagues at all stages!  If you have interest in neurodegenerative diseases, protein aggregation and phase separation, microscopy, or any combination thereof, you can fit in our team! 
 

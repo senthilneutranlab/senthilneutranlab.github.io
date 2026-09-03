@@ -6,6 +6,15 @@ position: 4
 feature-img: "assets/img/header/tirf.jpg"
 hide: false
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N20PHKXPCL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N20PHKXPCL');
+</script>
 
 <div class="news-timeline"> 
 {% assign current_year = "" %} 

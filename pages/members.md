@@ -6,6 +6,15 @@ position: 2
 feature-img: "assets/img/header/members.jpg"
 hide: false
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N20PHKXPCL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N20PHKXPCL');
+</script>
 
 {% for member in site.data.members %}
 
