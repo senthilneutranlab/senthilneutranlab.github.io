@@ -12,4 +12,8 @@ author:
 categories: [news]
 ---
 
+<div style="text-align: center;">
+  <img src="/assets/img/news/nat-comm-2026.png" alt="nat-comm-2026" style="max-width: 100%; height: auto;">
+</div>
+
 Senthil’s collaborative work with EPFL, Switzerland, got accepted in “Nature Communications”
