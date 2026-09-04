@@ -24,6 +24,22 @@
   github: 
   linkedin: https://www.linkedin.com/in/jyoti-chaurasia-345357255/
 
+- name: Muzzammil Bhaisaheb
+  position: Junior Research Fellow | ANRF project fellow 
+  image: /assets/img/members/muzzammil.jpg
+  scholar:
+  github: 
+  linkedin: 
+
+- name: Kaustubh Bartakke
+  position: PhD student | CSIR-JRF
+  image: /assets/img/members/kaustubh.jpg
+  description: Shared PhD student with Dr. Gaurav Das, NCCS, Pune
+  email: 
+  scholar: 
+  github: 
+  linkedin: 
+
 - name: Suriya Sankary
   position: PhD student | UGC-JRF
   image: /assets/img/members/suriya.jpg
@@ -40,18 +56,5 @@
   github: 
   linkedin: 
 
-- name: Kaustubh Bartakke
-  position: PhD student | CSIR-JRF
-  image: /assets/img/members/kaustubh.jpg
-  description: Shared PhD student with Dr. Gaurav Das, NCCS, Pune
-  email: 
-  scholar:
-  github: 
-  linkedin: 
 
-- name: Muzzammil Bhaisaheb
-  position: Junior Research Fellow | ANRF project fellow 
-  image: /assets/img/members/muzzammil.jpg
-  scholar:
-  github: 
-  linkedin: 
+
