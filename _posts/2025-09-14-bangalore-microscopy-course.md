@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bangalore Microscopy Course 2025
-Date : 2025-09-15
 author: 
 #feature-img: ""
 #thumbnail: ""
