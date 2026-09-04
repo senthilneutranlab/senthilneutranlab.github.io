@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Madhavi and Sandhya joins the lab!
-#Date : 2026-05-15
 author: 
 #feature-img: ""
 #thumbnail: "assets/img/.jpeg"
