@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcomming Suriya and Soumita!
+title: Welcoming Suriya and Soumita!
 #Date : 2026-05-15
 author: 
 #feature-img: ""

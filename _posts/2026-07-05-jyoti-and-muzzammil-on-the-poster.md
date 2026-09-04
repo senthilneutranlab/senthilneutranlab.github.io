@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jyoti and Muzzammil presents the poster!
+title: Jyoti and Muzzammil on the poster!
 #Date : 2026-05-15
 author: 
 #feature-img: ""
