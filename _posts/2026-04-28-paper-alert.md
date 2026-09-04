@@ -4,7 +4,7 @@ title: Paper alert!
 #Date : 2026-04-05
 author: 
 #feature-img: ""
-#thumbnail: "assets/img/.jpeg"
+thumbnail: "/assets/img/news/nat-comm-2026.png"
 #color: blue
 #last_modified: "2025-05-30"
 #hide_title: true
