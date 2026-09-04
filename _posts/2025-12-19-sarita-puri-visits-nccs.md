@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sarita Puri visits NCCS
-#Date : 2025-12-05
 author: 
 #feature-img: ""
 #thumbnail: ""

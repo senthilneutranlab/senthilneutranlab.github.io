@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Renu attends a cell culture workshop
-Date : 2025-10-15
 author: 
 #feature-img: ""
 #thumbnail: ""

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Congratulations on the ICMR grant!
-Date : 2025-11-05
 author: 
 #feature-img: ""
 #thumbnail: ""

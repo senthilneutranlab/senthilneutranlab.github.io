@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Welcoming Sarang
-Date : 2025-11-15
 author: 
 #feature-img: ""
 #thumbnail: ""

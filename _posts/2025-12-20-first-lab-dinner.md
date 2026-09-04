@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Our first lab dinner
-Date : 2025-12-15
 author: 
 #feature-img: ""
 #thumbnail: ""

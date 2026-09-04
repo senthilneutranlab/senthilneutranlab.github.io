@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Welcoming Muzzammil
-Date : 2025-10-05
 author: 
 #feature-img: ""
 #thumbnail: ""
