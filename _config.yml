@@ -49,7 +49,7 @@ collections:
 
   conference:
     output: true
-    permalink: /conference/:name/
+    permalink: /lablife/conference/:name/
 
 # BUILD SETTINGS
 sass:
