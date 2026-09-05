@@ -47,6 +47,10 @@ collections:
     output: true
     permalink: /lablife/labouting/:name/
 
+  conference:
+    output: true
+    permalink: /conference/:name/
+
 # BUILD SETTINGS
 sass:
   style: compressed
