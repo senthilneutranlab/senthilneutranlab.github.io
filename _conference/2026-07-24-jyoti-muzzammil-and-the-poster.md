@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jyoti and Muzzammil on the poster!
+title: Jyoti, Muzzammil and the poster!
 gallery_path: "assets/img/lablife/conference/nccssympo-26"
 author: 
 #feature-img: ""
