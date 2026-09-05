@@ -4,7 +4,7 @@ title: Jyoti and Muzzammil on the poster!
 gallery_path: "assets/img/lablife/conference/nccssympo-26"
 author: 
 #feature-img: ""
-#thumbnail: "assets/img/.jpeg"
+thumbnail: "assets/img/news/nccssympo-flyer.png"
 #color: blue
 #last_modified: "2025-05-30"
 #hide_title: true
