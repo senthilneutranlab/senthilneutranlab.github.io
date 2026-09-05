@@ -3,7 +3,7 @@ layout: page
 title: NEWS
 permalink: /news/
 position: 4
-feature-img: "assets/img/header/tirf.jpg"
+feature-img: "assets/img/header/news.png"
 hide: false
 ---
 <!-- Google tag (gtag.js) -->
