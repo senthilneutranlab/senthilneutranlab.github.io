@@ -7,7 +7,9 @@ layout: default
             {% if page.hide_title %}
                 <div class="feature-image-padding"></div>
             {% else %}
-                <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title"> {{ page.title }}</h1>
+                <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title">
+                        {{ page.heading | default: page.title }}
+                </h1>
                 {% if page.subtitle %}
                     <h2 class="subtitle">{{ page.subtitle }}</h2>
                 {% endif %}
@@ -27,4 +29,6 @@ layout: default
         {% capture tag_list %}{{ page.tags | join: "|" }}{% endcapture %}
         {% include default/tags_list.liquid tags=tag_list %}
     </div>
+
+    
 </article>
