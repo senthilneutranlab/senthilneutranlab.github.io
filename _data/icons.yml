@@ -4,7 +4,6 @@ behance:
 bitbucket:
 calendly:
 dribbble:
-facebook:
 flickr:
 github:
 gitlab:
@@ -21,12 +20,7 @@ medium:
 patreon:
 phone:            # e.g. "+11111111111"
 pinterest:
-reddit:
 soundcloud:
-sms:              # e.g. "+11111111111"
-stack-exchange:   # e.g. "123456789"
-stack-overflow:   # e.g. "123456789"
-steam:
 telegram:
 tumblr:
 twitch:

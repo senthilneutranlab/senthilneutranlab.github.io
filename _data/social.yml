@@ -6,8 +6,5 @@ feed:
 # For the share button options at the bottom of the articles
 share:
   email: true
-  facebook: true
   linkedin: true
-  reddit: true
   twitter: true
-  wordpress:
