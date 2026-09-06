@@ -2,7 +2,7 @@
 layout: post
 title: Our first lab meeting
 author: 
-gallery_path: "assets/img/lablife/labouting/labdinner-2025"
+#gallery_path: "assets/img/lablife/labouting/labdinner-2025"
 #feature-img: ""
 thumbnail: "/assets/img/news/labmeet01.png"
 #color: blue
