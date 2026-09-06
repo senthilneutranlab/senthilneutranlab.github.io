@@ -16,18 +16,18 @@ hide: false
   gtag('config', 'G-N20PHKXPCL');
 </script>
 
-We are always looking for motivated colleagues at all stages!  If you have interest in neurodegenerative diseases, protein aggregation and phase separation, microscopy, or any combination thereof, you can fit in our team! 
+We are always looking for motivated colleagues at all stages!  If you are interested in neurodegenerative diseases, protein aggregation and phase separation, microscopy, or any combination thereof, you could be a good fit for our team! 
 
 ## How to apply
 
-> **Undergraduate students** can join us for summer internships via Indian Academy of Sciences (IAS) Summer Research Fellowship program.  [Click here](https://www.nccs.res.in/academics/Academics-SummerTraining) for more information.
+> **Undergraduate students** can join us for summer internships through Indian Academy of Sciences (IAS) Summer Research Fellowship program.  [Click here](https://www.nccs.res.in/academics/Academics-SummerTraining) for more information.
 
 > **Master's students** can directly email Senthil or apply via [institute portal](https://nccs.res.in/academics/Academics-ProjectTraining) to join us for thesis project.
 
-> Ohh, you already have or about to recieve a master's degree? We actively seek qualified **graduate students** through our [structured PhD program](https://www.nccs.res.in/Career) and [JRF openings](https://www.nccs.res.in/Career). 
+> Oh, do you already have, or are you about to receive, a master's degree? We actively seek qualified **graduate students** through our [structured PhD program](https://www.nccs.res.in/Career) and [JRF openings](https://www.nccs.res.in/Career). 
  
 
-> **Postdoctoral candidates** should directly write to Dr. Senthil to know more about ongoing project directions and opportunities.
+> **Postdoctoral candidates** should directly write to Dr. Senthil to learn more about ongoing project directions and opportunities.
 
 
 ## Contact
