@@ -27,7 +27,7 @@ We are always looking for motivated colleagues at all stages!  If you are intere
 > Oh, do you already have, or are you about to receive, a master's degree? We actively seek qualified **graduate students** through our [structured PhD program](https://www.nccs.res.in/Career) and [JRF openings](https://www.nccs.res.in/Career). 
  
 
-> **Postdoctoral candidates** should directly write to Dr. Senthil to learn more about ongoing project directions and opportunities.
+> **Postdoctoral candidates** should directly write to Senthil to learn more about ongoing project directions and opportunities.
 
 
 ## Contact
