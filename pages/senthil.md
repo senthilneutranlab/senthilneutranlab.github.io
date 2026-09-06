@@ -18,7 +18,7 @@ hide: true
 
 # Senthil Kumar Thangaraj
 
-![Senthil Kumar Thangaraj]({{ '/assets/img/members/senthil-full.jpg' | relative_url }})
+![Senthil Kumar Thangaraj]({{ '/assets/img/members/senthil-full.webp' | relative_url }})
 
 ## Education
 >**Dr.rer.nat.**, Max Planck Research Unit for Enzymology of Protein Folding and Ulm University, Germany, 2015.
