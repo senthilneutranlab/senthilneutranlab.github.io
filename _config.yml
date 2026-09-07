@@ -10,7 +10,7 @@ favicon: assets/img/NeuTran_Logo_cropped_nobg.svg                         # Icon
 
 # Header and footer text
 header_text: Neurodegeneration and Translational Biology  # Change Blog header text
-header_feature_image: assets/img/header/hasyn_tem_01.jpg
+header_feature_image: neutran-lab-logo.jpeg
 header_feature_image_responsive: true
 
 footer_text: >
