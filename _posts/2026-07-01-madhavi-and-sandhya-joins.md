@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Madhavi and Sandhya joins the lab!
+title: Madhavi and Sandhya join the lab!
 author: 
 #feature-img: ""
 #thumbnail: "assets/img/.jpeg"
@@ -11,4 +11,4 @@ author:
 categories: [news]
 ---
 
-Sandhya and Madhavi, both from NISER Raebareli, join the lab for their MSc dissertation projects. The lab is excited to have them! 
+Sandhya and Madhavi, both from NIPER Raebareli, join the lab for their MSc dissertation projects. The lab is excited to have them! 
