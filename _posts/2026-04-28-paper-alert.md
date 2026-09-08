@@ -16,4 +16,4 @@ categories: [news]
   <img src="/assets/img/news/nat-comm-2026.png" alt="nat-comm-2026" style="max-width: 100%; height: auto;">
 </div>
 
-Senthil’s collaborative work with EPFL, Switzerland, got accepted in “Nature Communications”
+Senthil’s collaborative work with The Switch Lab at VIB KU-Leuven, got accepted in “Nature Communications”
