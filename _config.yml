@@ -5,8 +5,8 @@ url: "https://senthilneutranlab.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Senthil's laboratory                                    # site's title
 description: "Senthil's Neurodegeneration and Translational Biology Laboratory - NeuTran Lab"  # used by search engines
-avatar: assets/img/NeuTran_Logo_cropped_nobg.svg                          # Empty for no avatar in navbar
-favicon: assets/img/NeuTran_Logo_cropped_nobg.svg                         # Icon displayed in the tab
+avatar: assets/img/lablogo_bg_cropped.svg                          # Empty for no avatar in navbar
+favicon: assets/img/lablogo_bg_cropped.svg                         # Icon displayed in the tab
 
 # Header and footer text
 header_text: Neurodegeneration and Translational Biology  # Change Blog header text
